@@ -7,4 +7,4 @@
 
 ## Solution
 
-* [PDF](https://github.com/rllabmcgill/markov-decision-processes-black_pearl/raw/master/MarkovDecisionProcesses.pdf)
+* [PDF](https://github.com/rllabmcgill/markov-decision-processes-black_pearl/MarkovDecisionProcesses.pdf)
